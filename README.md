@@ -28,9 +28,3 @@ An Android application designed to help users manage their daily expenses and pe
 - `util/` - Utility classes
 - `widget/` - Home screen widget
 
-## Getting Started
-
-1. Clone this repository.
-2. Open the project in Android Studio.
-3. Wait for Gradle sync to finish.
-4. Run the application on an emulator or Android device.
