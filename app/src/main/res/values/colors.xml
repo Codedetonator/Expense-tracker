@@ -1,0 +1,28 @@
+<resources>
+    <color name="primary">#6C63FF</color>
+    <color name="primary_dark">#4F46E5</color>
+    <color name="accent">#14B8A6</color>
+    <color name="background">#F6F5FF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#1F1D2B</color>
+    <color name="text_secondary">#7A7891</color>
+    <color name="settled_green">#16A34A</color>
+    <color name="outstanding_red">#E11D48</color>
+
+    <!-- Soft UI tones -->
+    <color name="soft_lavender">#ECEAFF</color>
+    <color name="soft_field">#F3F1FF</color>
+    <color name="soft_stroke">#E6E3F7</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="white_25">#40FFFFFF</color>
+
+    <!-- Gradients -->
+    <color name="grad_purple_start">#6C63FF</color>
+    <color name="grad_purple_end">#A78BFA</color>
+    <color name="grad_teal_start">#0D9488</color>
+    <color name="grad_teal_end">#5EEAD4</color>
+    <color name="grad_orange_start">#F97316</color>
+    <color name="grad_orange_end">#FDBA74</color>
+    <color name="grad_pink_start">#DB2777</color>
+    <color name="grad_pink_end">#F9A8D4</color>
+</resources>
